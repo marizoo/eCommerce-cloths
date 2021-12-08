@@ -51,6 +51,7 @@ background-color: #${(props) => props.bg};
 const ImgContainer = styled.div`
 height: 100%;
 flex: 1;
+margin-left: 100px;
 `
 
 const Image = styled.img`
